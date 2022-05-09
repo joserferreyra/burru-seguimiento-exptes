@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+}
+
+.ql-toolbar.ql-snow {
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    
+    border: none !important;
+  }
+
+.edit {
+    width: 60%;
+    min-height: 100vh;
+    background-color: aliceblue;
+    margin: 10px auto 10px auto !important;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
